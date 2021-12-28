@@ -1,8 +1,8 @@
 ## rsschool-cv
 -------------------------------
 # ***Hanna Yepihava***
--------------------------------
-===============================
+
+***********************************
 
 #### **Contacts:**
 * **Discord:** Annik
@@ -10,12 +10,12 @@
 * **Phone:** +375257974857
 * **Telegram:** @annikep
 
-================================
+--------------------------------------
 
 #### **About myself:**
 Started studying front-end, striving for better results, trying to take rsschool courses
 
-================================
+------------------------------------
 
 #### **Skils:**
 * HTML
@@ -23,11 +23,11 @@ Started studying front-end, striving for better results, trying to take rsschool
 * Git, GitHub
 * VS Code
 
-=================================
+---------------------------------------------
 
 #### **Code explame:**
 
-'''
+```
 <header>
 <img alt src="https://im.jigsawplanet.com/?rc=img&pid=0690faeade34&..">
 <nav>
@@ -37,15 +37,15 @@ Started studying front-end, striving for better results, trying to take rsschool
 </ul>
 </nav>
 </header>
-'''
+```
 
-==================================
+-------------------------------------
 
 #### **Courses:**
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * CodeBasic courses
 
-==================================
+----------------------------------------
 
 #### **Launguages:**
 * **Englsh-** B1 Intermediate to B2 Upper Intermediate(according to the online test www.efset.org)
@@ -53,4 +53,3 @@ Started studying front-end, striving for better results, trying to take rsschool
 * **Belarussian-** Native
 * **Ukrainian-** Intermediate
 
-===================================
