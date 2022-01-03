@@ -1,3 +1,337 @@
-.plo{
-    dodood:hkjh;
+:root{
+--main-color: #7fe757;
+  --ligth-gray-color: #777777;
+  --green-2: #90ff70;
+}
+
+body {
+    font-family: 'Cabin Condensed', sans-serif;
+    min-height: 100vh;
+    margin: 0; padding: 0;
+    
+  margin-left: 170px;
+  margin-right: 170px;
+}
+
+html {
+    scroll-behavior: smooth; 
+  }
+
+* {
+    box-sizing: border-box;
+  }
+
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .nav-list{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    color: #505050;
+    background: #90ff70;
+    font-size: 17px;
+  }
+
+  .nav-li {
+    list-style-type: none;
+  }
+
+  .nav-button {
+    text-decoration: none;
+    padding: 0 20px;
+  line-height: 50px;
+  color: #505050;
+  }
+
+  .photo{
+    border: 4px solid var(--main-color);
+    border-radius: 50%;
+    padding: 10px;
+    background-origin:content-box;
+    margin-left: 45px;
+  }
+
+  .my-name{
+      color: #505050;
+      margin-left: 65px;
+  }
+
+  .front-end{
+    color: #505050;
+    margin-left: 88px;
+    margin-top: -17px;
+  }
+
+  .section {
+      background-color: #90ff70;
+      width: 370px;
+      height: auto;
+      margin-top: 30px;
+
+    
+  }
+
+  .contact {
+      background-color: #505050;
+      margin-left: 120px;
+      padding-left: 20px;
+      padding-right: 20px;
+      width: 120px;
+    position: relative;
+    bottom: 15px;
+    color: aliceblue;
+    font-weight: 300;
+  }
+
+  .number {
+      font-size: 21px;
+      position: relative;
+      left: 40px;
+      bottom: 55px;
+
+  }
+
+  .icon-number {
+      margin-left: -10px;
+  }
+
+  .icon-telegram {
+    margin-left: -10px;
+    position: relative;
+    bottom: 50px;
+  }
+  
+  .telegram {
+    font-size: 21px;
+      position: relative;
+      left: 40px;
+      bottom: 107px;
+  }
+
+.icon-gmail {
+  margin-left: -10px;
+  position: relative;
+  bottom: 105px;
+}
+
+.e-mail {
+  font-size: 21px;
+  position: relative;
+  left: 40px;
+  bottom: 160px;
+}
+
+.contacts-list {
+  list-style-type: none;
+}
+
+.my-skills {
+  background-color: #505050;
+      margin-left: 120px;
+      padding-left: 20px;
+      padding-right: 20px;
+      width: 120px;
+    position: relative;
+    bottom: 130px;
+    color: aliceblue;
+    font-weight: 300;
+}
+
+.skills-list {
+  font-size: 21px;
+      position: relative;
+      left: 22px;
+      bottom: 125px;
+}
+
+.language-li {
+  font-size: 21px;
+      position: relative;
+      left: 22px;
+      bottom: 100px;
+}
+
+.my-language {
+  background-color: #505050;
+      margin-left: 120px;
+      padding-left: 20px;
+      padding-right: 20px;
+      width: 120px;
+    position: relative;
+    bottom: 110px;
+    color: aliceblue;
+    font-weight: 300;
+}
+
+.pp {
+font-size: 18px;
+position: relative;
+bottom: 115px;
+left: 20px;
+}
+
+.right{
+  position: absolute;
+  right: 650px;
+  top: 90px;
+  font-family: 'Cabin Condensed', sans-serif; 
+  color: #505050;
+  display: flex;
+}
+
+.about {
+      position:relative;
+      left: 490px;
+      bottom:35px;
+      font-weight: 400;
+color: #505050;
+border-bottom:2px solid #505050;
+width: 570px;
+    vertical-align: middle;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.img {
+  position: relative;
+  left: 450px;
+  top: 25px;
+}
+
+.myself {
+  width: 580px;
+  position: relative;
+  left: 490px;
+  bottom: 50px;
+  font-weight: 550;
+  font-size: 18px
+}
+
+.icon-edu {
+  position: relative;
+  left: 450px;
+}
+
+.my-education {
+  position:relative;
+  left: 490px;
+  bottom:55px;
+  font-weight: 400;
+color: #505050;
+border-bottom:2px solid #505050;
+width: 570px;
+vertical-align: middle;
+font-weight: 500;
+text-transform: uppercase;
+letter-spacing: 1px;
+}
+
+.my-educ {
+  width: 580px;
+  position: relative;
+  left: 490px;
+  bottom: 65px;
+  font-weight: 550;
+  font-size: 18px
+}
+
+.icon-courses {
+  position: relative;
+  left: 450px;
+}
+
+.my-courses {
+  position:relative;
+  left: 490px;
+  bottom:55px;
+  font-weight: 400;
+color: #505050;
+border-bottom:2px solid #505050;
+width: 570px;
+vertical-align: middle;
+font-weight: 500;
+text-transform: uppercase;
+letter-spacing: 1px;
+}
+
+.courses-list {
+  width: 580px;
+  position: relative;
+  left: 470px;
+  bottom: 50px;
+  font-weight: 550;
+  font-size: 18px
+}
+
+.icon-code {
+  position: relative;
+  left: 450px;
+}
+
+.expleme-code {
+  position:relative;
+  left: 490px;
+  bottom:55px;
+  font-weight: 400;
+color: #505050;
+border-bottom:2px solid #505050;
+width: 570px;
+vertical-align: middle;
+font-weight: 500;
+text-transform: uppercase;
+letter-spacing: 1px;
+}
+
+.code {
+  width: 580px;
+  color: #505050;
+  
+  position: relative;
+  left: 330px;
+  bottom: 50px;
+  font-weight: 400;
+  font-size: 18px
+}
+
+footer {
+  background-color: #505050;
+  position: relative;
+  bottom: 18px;
+  height: 80px;
+}
+
+.my-github {
+  text-decoration: none;
+  color: white;
+  position: relative;
+  bottom: 25px;
+  left: 60px;
+  font-weight: 400;
+}
+
+.icon-github {
+  position: relative;
+  right: 40px;
+  top: 42px;
+}
+
+.year {
+  color: white;
+  position: relative;
+  bottom: 60px;
+  left: 460px;
+  font-weight: 300;
+}
+
+.icon-rs {
+  position: relative;
+  left: 900px;
+  bottom: 100px;
+}
+
+html { 
+  overflow-x:  hidden; 
 }

@@ -1,6 +1,6 @@
 ## rsschool-cv
 -------------------------------
-# ***Hanna Yepihava***
+# ***Hanna Yepihova***
 
 ***********************************
 
@@ -17,7 +17,7 @@ Started studying front-end, striving for better results, trying to take rsschool
 
 ------------------------------------
 
-#### **Skils:**
+#### **Skills:**
 * HTML
 * CSS
 * Git, GitHub
@@ -48,7 +48,7 @@ Started studying front-end, striving for better results, trying to take rsschool
 ----------------------------------------
 
 #### **Launguages:**
-* **Englsh-** B1 Intermediate to B2 Upper Intermediate(according to the online test www.efset.org)
+* **Englsh-** A1 to A2 (according to the online test www.efset.org)
 * **Russian-** Native
 * **Belarussian-** Native
 * **Ukrainian-** Intermediate
